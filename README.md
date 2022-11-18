@@ -1,4 +1,5 @@
-[![Rust](https://github.com/Gleefre/rust-tracer/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/Gleefre/rust-tracer/actions/workflows/rust.yml)# rust-tracer
+[![Rust](https://github.com/Gleefre/rust-tracer/actions/workflows/rust.yml/badge.svg)](https://github.com/Gleefre/rust-tracer/actions/workflows/rust.yml)
+# rust-tracer
 
 Use `cargo` to build and run this project. 
 
