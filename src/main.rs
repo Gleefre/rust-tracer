@@ -3,7 +3,7 @@ mod scene;
 
 fn main() {
     let y = {
-        let x = 12;
+        let x = 12/0;
         x + 1
     };
     for a in 1..3 {
