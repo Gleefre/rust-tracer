@@ -178,7 +178,7 @@ mod tests {
         let a_vector = Vector(1., 0., 0.);
         let b_vector = Vector(0., 1., 0.);
         let product = a_vector.vector_product(&b_vector);
-        assert_eq!(Vector(0.0, 0.0, 0.0), product);
+        assert_eq!(Vector(0.0, 0.0, 1.0), product);
     }
 
     #[test]
