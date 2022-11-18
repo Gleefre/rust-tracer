@@ -147,7 +147,7 @@ mod tests {
     #[test]
     fn vector_norm() {
         let vectors_norms_pairs = vec![
-            (Vector(0., 0., 0.), 0.),
+            (Vector(0., 0., 0.), 1.),
             (Vector(0., 0., 7.), 7.),
             (Vector(1., 0., 0.), 1.),
             (Vector(0., 3., 0.), 3.),
